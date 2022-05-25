@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hithaish
 - 👀 I’m interested in python training
-- 🌱 I’m currently learning 3rd sem DCSE
+- 🌱 I’m currently learning 6th sem DCSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hithaishkaramber@gmail.com
 
